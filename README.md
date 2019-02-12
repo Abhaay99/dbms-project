@@ -41,9 +41,6 @@ teacher if the need arises.
 Below are the documents validated by the guiding faculty, **Dr. Mamatha H. R.**
 
 * User requirements
-![User Requirements](
-        dbms-project/User requirements.jpeg
-      )
 
 * ER diagram
 
