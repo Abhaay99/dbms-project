@@ -280,6 +280,102 @@ RJ	4	H	B-G06	Thursday	4	11:45:00	12:45:00
 Dr.NKS	4	H	B-G06	Thursday	5	13:30:00	14:30:00
 VJ	4	H	B-G06	Friday	3	10:45:00	11:45:00
 Dr.JR	4	H	B-G06	Friday	4	11:45:00	12:45:00
+NMP 6   A   B-207   Monday  1   8:15:00     9:15:00
+NMP 6   A   B-207   Monday  2   9:15:00     10:15:00
+SHR 6   A   B-207   Monday  3   10:45:00     11:45:00
+SHR 6   A   B-207   Monday  4   11:45:00     12:45:00
+KSS 6   A   B-207   Wednesday  3   10:45:00     11:45:00
+KSS 6   A   B-207   Wednesday  4   11:45:00     12:45:00
+KSS 6   A   B-207   Thursday  3   10:45:00     11:45:00
+KSS 6   A   B-207   Thursday  4   11:45:00     12:45:00
+NMP 6   A   B-207   Friday  3   10:45:00     11:45:00
+NMP 6   A   B-207   Friday  4   11:45:00     12:45:00
+SHR 6   A   B-207   Friday  5   13:30:00     14:30:00
+SHR 6   A   B-207   Friday  6   14:30:00     15:30:00
+SMP  6   B   B-G08   Monday  1   8:15:00     9:15:00
+SMP  6   B   B-G08   Monday  2   9:15:00     10:15:00
+Dr.KVS  6   B   B-GSH   Monday  3   10:45:00     11:45:00
+Dr.KVS  6   B   B-GSH   Monday  4   11:45:00     12:45:00
+VM  6   B   B-G08   Tuesday  3   10:45:00     11:45:00
+VM  6   B   B-G08   Tuesday  4   11:45:00     12:45:00
+VM  6   B   B-G08   Wednesday  1   8:15:00     9:15:00
+VM  6   B   B-G08   Wednesday  2   9:15:00     10:15:00
+Dr.KVS  6   B   B-GSH   Wednesday  3   10:45:00     11:45:00
+Dr.KVS  6   B   B-GSH   Wednesday  4   11:45:00     12:45:00
+SMP  6   B   B-G08   Friday  3   10:45:00     11:45:00
+SMP  6   B   B-G08   Friday  4   11:45:00     12:45:00
+RHB  6   C   B-212   Monday  3   10:45:00     11:45:00
+RHB  6   C   B-212   Monday  4   11:45:00     12:45:00
+PK   6   C   B-212   Tuesday  3   10:45:00     11:45:00
+PK   6   C   B-212   Tuesday  4   11:45:00     12:45:00
+VRB  6   C   B-212   Wednesday  3   10:45:00     11:45:00
+VRB  6   C   B-212   Wednesday  4   11:45:00     12:45:00
+PK   6   C   B-212   Thursday  3   10:45:00     11:45:00
+PK   6   C   B-212   Thursday  4   11:45:00     12:45:00
+VRB  6   C   B-212   Friday  3   10:45:00     11:45:00
+VRB  6   C   B-212   Friday  4   11:45:00     12:45:00
+RHB  6   C   B-212   Friday  5   13:30:00     14:30:00
+RHB  6   C   B-212   Friday  6   14:30:00     15:30:00
+VM   6   D   B-206   Monday  1   8:15:00     9:15:00
+VM   6   D   B-206   Monday  2   9:15:00     10:15:00
+Dr.KVS  6   D   B-GSH   Monday  3   10:45:00     11:45:00
+Dr.KVS  6   D   B-GSH   Monday  4   11:45:00     12:45:00
+CB   6   D   B-206   Wednesday  1   8:15:00     9:15:00
+CB   6   D   B-206   Wednesday  2   9:15:00     10:15:00
+Dr.KVS  6   D   B-GSH   Wednesday  3   10:45:00     11:45:00
+Dr.KVS  6   D   B-GSH   Wednesday  4   11:45:00     12:45:00
+VM   6   D   B-206   Friday  3   10:45:00     11:45:00
+VM   6   D   B-206   Friday  4   11:45:00     12:45:00
+CB   6   D   B-206   Friday  5   13:30:00     14:30:00
+CB   6   D   B-206   Friday  6   14:30:00     15:30:00
+KP   6   E   B-S01   Monday  1   8:15:00     9:15:00
+KP   6   E   B-S01   Monday  2   9:15:00     10:15:00
+CB   6   E   B-S01   Monday  3   10:45:00     11:45:00
+CB   6   E   B-S01   Monday  4   11:45:00     12:45:00
+KP   6   E   B-S01   Tuesday  3   10:45:00     11:45:00
+KP   6   E   B-S01   Tuesday  4   11:45:00     12:45:00
+SRS  6   E   B-S01   Wednesday  1   8:15:00     9:15:00
+SRS  6   E   B-S01   Wednesday  2   9:15:00     10:15:00
+CB   6   E   B-S01   Thursday  3   10:45:00     11:45:00
+CB   6   E   B-S01   Thursday  4   11:45:00     12:45:00
+SRS  6   E   B-S01   Friday  5   13:30:00     14:30:00
+SRS  6   E   B-S01   Friday  6   14:30:00     15:30:00
+Dr.SS  6   F   B-S02   Monday  3   10:45:00     11:45:00
+Dr.SS  6   F   B-S02   Monday  4   11:45:00     12:45:00
+SRS  6   F   B-S02   Tuesday  3   10:45:00     11:45:00
+SRS  6   F   B-S02   Tuesday  4   11:45:00     12:45:00
+VJ   6   F   B-S02   Wednesday  1   8:15:00     9:15:00
+VJ   6   F   B-S02   Wednesday  2   9:15:00     10:15:00
+Dr.SS  6   F   B-S02   Wednesday  3   10:45:00     11:45:00
+Dr.SS  6   F   B-S02   Wednesday  4   11:45:00     12:45:00
+SRS  6   F   B-S02   Thursday  3   10:45:00     11:45:00
+SRS  6   F   B-S02   Thursday  4   11:45:00     12:45:00
+VJ   6   F   B-S02   Friday  5   13:30:00     14:30:00
+VJ   6   F   B-S02   Friday  6   14:30:00     15:30:00
+SHR  6   G   B-104   Monday  1   8:15:00     9:15:00
+SHR  6   G   B-104   Monday  2   9:15:00     10:15:00
+NMP  6   G   B-104   Tuesday  3   10:45:00     11:45:00
+NMP  6   G   B-104   Tuesday  4   11:45:00     12:45:00
+KP   6   G   B-104   Wednesday  1   8:15:00     9:15:00
+KP   6   G   B-104   Wednesday  2   9:15:00     10:15:00
+NMP  6   G   B-104   Thursday  3   10:45:00     11:45:00
+KP   6   G   B-104   Thursday  4   11:45:00     12:45:00
+SHR  6   G   B-104   Friday  3   10:45:00     11:45:00
+SHR  6   G   B-104   Friday  4   11:45:00     12:45:00
+NMP  6   G   B-104   Friday  5   13:30:00     14:30:00
+KP   6   G   B-104   Friday  6   14:30:00     15:30:00
+COP  6   H   B-211   Monday  1   8:15:00     9:15:00
+COP  6   H   B-211   Monday  2   9:15:00     10:15:00
+RHB  6   H   B-211   Tuesday  3   10:45:00     11:45:00
+RHB  6   H   B-211   Tuesday  4   11:45:00     12:45:00
+RHB  6   H   B-211   Wednesday  1   8:15:00     9:15:00
+RHB  6   H   B-211   Wednesday  2   9:15:00     10:15:00
+NSK  6   H   B-211   Wednesday  3   10:45:00     11:45:00
+NSK  6   H   B-211   Wednesday  4   11:45:00     12:45:00
+COP  6   H   B-211   Thursday  3   10:45:00     11:45:00
+COP  6   H   B-211   Thursday  4   11:45:00     12:45:00
+NSK  6   H   B-211   Friday  3   10:45:00     11:45:00
+NSK  6   H   B-211   Friday  4   11:45:00     12:45:00
 \.
 
 
@@ -288,13 +384,18 @@ Dr.JR	4	H	B-G06	Friday	4	11:45:00	12:45:00
 --
 
 COPY public.course (c_code, c_name, credits) FROM stdin;
-UE17MA251	LA	4
-UE17CS251	DAA	4
-UE17CS252	DBMS	4
-UE17CS253	MPCA	4
-UE17CS254	TOC	4
-UE17CS255	DAA Lab	2
-UE17CS256	MPCA Lab	2
+UE17MA251	LA	 4
+UE17CS251	DAA	 4
+UE17CS252	DBMS 4
+UE17CS253	MPCA 4
+UE17CS254	TOC	 4
+UE17CS255	DAA Lab	 1
+UE17CS256	MPCA Lab 1
+UE16CS351	CD	 4
+UE16CS352	CC   4
+UE16CS353	ML   4
+UE16CS354	CD Lab	 1
+UE16CS355	ML Lab	 1
 \.
 
 
@@ -329,6 +430,22 @@ CBH	Chandravva B Hebbi	CSE	UE17MA251
 SK	Shruthi Kaivalya	CSE	UE17CS251
 VJ	Vinay Joshi	CSE	UE17CS252
 RJ	Jyoti R	CSE	UE17CS254
+KSS  K Shashikala  CSE UE16CS351
+NMP  Nirupama M P  CSE UE16CS352
+SHR  Srikanth H R  CSE UE16CS353
+VM  Madhura V  CSE UE16CS351
+Dr.KVS  K V Subramaniam  CSE UE16CS352
+SMP  Sreekanth M Prabhu  CSE UE16CS353
+PK  Preet Kanwal  CSE UE16CS351
+RHB  Ramesh H Bhat  CSE UE16CS352
+VRB  V R Badriprasad  CSE UE16CS353
+CB  Channabankapur  CSE UE16CS353
+KP  Kiran P  CSE UE16CS351
+SRS  Samatha R Swamy  CSE UE16CS352
+VJ  Vinay Joshi  CSE UE16CS351
+Dr.SS  Snehanshu Saha  CSE UE16CS353
+COP  Prakash C O  CSE UE16CS351
+NSK  N S Kumar  CSE UE16CS353
 \.
 
 
@@ -377,6 +494,30 @@ SK	UE17CS251	4	H	B-G06
 VJ	UE17CS252	4	H	B-G06
 Dr.JR	UE17CS253	4	H	B-G06
 RJ	UE17CS254	4	H	B-G06
+KSS UE16CS351   6   A   B-207
+NMP UE16CS352   6   A   B-207
+SHR UE16CS353   6   A   B-207
+VM  UE16CS351   6   B   B-G08
+Dr.KVS  UE16CS352   6   B   B-GSH
+SMP UE16CS353   6   B   B-G08
+PK  UE16CS351   6   C   B-212
+RHB UE16CS352   6   C   B-212
+VRB UE16CS353   6   C   B-212
+VM  UE16CS351   6   D   B-212
+Dr.KVS  UE16CS352   6   D   B-GSH
+CB  UE16CS353   6   D   B-212
+KP  UE16CS351   6   E   B-S01
+SRS UE16CS352   6   E   B-S01
+CB  UE16CS353   6   E   B-S01
+VJ  UE16CS351   6   F   B-S02
+SRS UE16CS352   6   F   B-S02
+Dr.SS   UE16CS353   6   F   B-S02
+KP  UE16CS351   6   G   B-104
+NMP UE16CS352   6   G   B-104
+SHR UE16CS353   6   G   B-104
+COP UE16CS351   6   H   B-211
+RHB UE16CS352   6   H   B-211
+NSK UE16CS353   6   H   B-211
 \.
 
 
@@ -393,6 +534,14 @@ COPY public.sem_class (sem, section, room_no, year) FROM stdin;
 4	F	B-G02	2019
 4	G	B-G07	2019
 4	H	B-G06	2019
+6	A	B-207	2019
+6	B	B-G08	2019
+6	C	B-212	2019
+6	D	B-206	2019
+6	E	B-S01	2019
+6	F	B-S02	2019
+6	G	B-104	2019
+6	H	B-211	2019
 \.
 
 
