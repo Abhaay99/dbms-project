@@ -168,16 +168,117 @@ INSERT INTO assign_to VALUES('RJ',4,'H','B-G06','Thursday',4,'11:45:00','12:45:0
 INSERT INTO assign_to VALUES('Dr.NKS',4,'H','B-G06','Thursday',5,'13:30:00','14:30:00');
 INSERT INTO assign_to VALUES('VJ',4,'H','B-G06','Friday',3,'10:45:00','11:45:00');
 INSERT INTO assign_to VALUES('Dr.JR',4,'H','B-G06','Friday',4,'11:45:00','12:45:00');
+INSERT into assign_to values('NMP', 6, 'A', 'B-207', 'Monday', 1, '8:15:00', '9:15:00');
+INSERT into assign_to values('NMP', 6, 'A', 'B-207', 'Monday', 2, '9:15:00', '10:15:00');
+INSERT into assign_to values('SHR', 6, 'A', 'B-207', 'Monday', 3, '10:45:00', '11:45:00');
+INSERT into assign_to values('SHR', 6, 'A', 'B-207', 'Monday', 4, '11:45:00', '12:45:00');
+INSERT into assign_to values('KSS', 6, 'A', 'B-207', 'Wednesday', 3, '10:45:00', '11:45:00');
+INSERT into assign_to values('KSS', 6, 'A', 'B-207', 'Wednesday', 4, '11:45:00', '12:45:00');
+INSERT into assign_to values('KSS', 6, 'A', 'B-207', 'Thursday', 3, '10:45:00', '11:45:00');
+INSERT into assign_to values('KSS', 6, 'A', 'B-207', 'Thursday', 4, '11:45:00', '12:45:00');
+INSERT into assign_to values('NMP', 6, 'A', 'B-207', 'Friday', 3, '10:45:00', '11:45:00');
+INSERT into assign_to values('NMP', 6, 'A', 'B-207', 'Friday', 4, '11:45:00', '12:45:00');
+INSERT into assign_to values('SHR', 6, 'A', 'B-207', 'Friday', 5, '13:30:00', '14:30:00');
+INSERT into assign_to values('SHR', 6, 'A', 'B-207', 'Friday', 6, '14:30:00', '15:30:00');
+INSERT into assign_to values('SMP', 6, 'B', 'B-G08', 'Monday', 1, '8:15:00', '9:15:00');
+INSERT into assign_to values('SMP', 6, 'B', 'B-G08', 'Monday', 2, '9:15:00', '10:15:00');
+INSERT into assign_to values('Dr.KVS', 6, 'B', 'B-GSH', 'Monday', 3, '10:45:00', '11:45:00');
+INSERT into assign_to values('Dr.KVS', 6, 'B', 'B-GSH', 'Monday', 4, '11:45:00', '12:45:00');
+INSERT into assign_to values('VM', 6, 'B', 'B-G08', 'Tuesday', 3, '10:45:00', '11:45:00');
+INSERT into assign_to values('VM', 6, 'B', 'B-G08', 'Tuesday', 4, '11:45:00', '12:45:00');
+INSERT into assign_to values('VM', 6, 'B', 'B-G08', 'Wednesday', 1, '8:15:00', '9:15:00');
+INSERT into assign_to values('VM', 6, 'B', 'B-G08', 'Wednesday', 2, '9:15:00', '10:15:00');
+INSERT into assign_to values('Dr.KVS', 6, 'B', 'B-GSH', 'Wednesday', 3, '10:45:00', '11:45:00');
+INSERT into assign_to values('Dr.KVS', 6, 'B', 'B-GSH', 'Wednesday', 4, '11:45:00', '12:45:00');
+INSERT into assign_to values('SMP', 6, 'B', 'B-G08', 'Friday', 3, '10:45:00', '11:45:00');
+INSERT into assign_to values('SMP', 6, 'B', 'B-G08', 'Friday', 4, '11:45:00', '12:45:00');
+INSERT into assign_to values('RHB', 6, 'C', 'B-212', 'Monday', 3, '10:45:00', '11:45:00');
+INSERT into assign_to values('RHB', 6, 'C', 'B-212', 'Monday', 4, '11:45:00', '12:45:00');
+INSERT into assign_to values('PK', 6, 'C', 'B-212', 'Tuesday', 3, '10:45:00', '11:45:00');
+INSERT into assign_to values('PK', 6, 'C', 'B-212', 'Tuesday', 4, '11:45:00', '12:45:00');
+INSERT into assign_to values('VRB', 6, 'C', 'B-212', 'Wednesday', 3, '10:45:00', '11:45:00');
+INSERT into assign_to values('VRB', 6, 'C', 'B-212', 'Wednesday', 4, '11:45:00', '12:45:00');
+INSERT into assign_to values('PK', 6, 'C', 'B-212', 'Thursday', 3, '10:45:00', '11:45:00');
+INSERT into assign_to values('PK', 6, 'C', 'B-212', 'Thursday', 4, '11:45:00', '12:45:00');
+INSERT into assign_to values('VRB', 6, 'C', 'B-212', 'Friday', 3, '10:45:00', '11:45:00');
+INSERT into assign_to values('VRB', 6, 'C', 'B-212', 'Friday', 4, '11:45:00', '12:45:00');
+INSERT into assign_to values('RHB', 6, 'C', 'B-212', 'Friday', 5, '13:30:00', '14:30:00');
+INSERT into assign_to values('RHB', 6, 'C', 'B-212', 'Friday', 6, '14:30:00', '15:30:00');
+INSERT into assign_to values('VM', 6, 'D', 'B-206', 'Monday', 1, '8:15:00', '9:15:00');
+INSERT into assign_to values('VM', 6, 'D', 'B-206', 'Monday', 2, '9:15:00', '10:15:00');
+INSERT into assign_to values('Dr.KVS', 6, 'D', 'B-GSH', 'Monday', 3, '10:45:00', '11:45:00');
+INSERT into assign_to values('Dr.KVS', 6, 'D', 'B-GSH', 'Monday', 4, '11:45:00', '12:45:00');
+INSERT into assign_to values('CB', 6, 'D', 'B-206', 'Wednesday', 1, '8:15:00', '9:15:00');
+INSERT into assign_to values('CB', 6, 'D', 'B-206', 'Wednesday', 2, '9:15:00', '10:15:00');
+INSERT into assign_to values('Dr.KVS', 6, 'D', 'B-GSH', 'Wednesday', 3, '10:45:00', '11:45:00');
+INSERT into assign_to values('Dr.KVS', 6, 'D', 'B-GSH', 'Wednesday', 4, '11:45:00', '12:45:00');
+INSERT into assign_to values('VM', 6, 'D', 'B-206', 'Friday', 3, '10:45:00', '11:45:00');
+INSERT into assign_to values('VM', 6, 'D', 'B-206', 'Friday', 4, '11:45:00', '12:45:00');
+INSERT into assign_to values('CB', 6, 'D', 'B-206', 'Friday', 5, '13:30:00', '14:30:00');
+INSERT into assign_to values('CB', 6, 'D', 'B-206', 'Friday', 6, '14:30:00', '15:30:00');
+INSERT into assign_to values('KP', 6, 'E', 'B-S01', 'Monday', 1, '8:15:00', '9:15:00');
+INSERT into assign_to values('KP', 6, 'E', 'B-S01', 'Monday', 2, '9:15:00', '10:15:00');
+INSERT into assign_to values('CB', 6, 'E', 'B-S01', 'Monday', 3, '10:45:00', '11:45:00');
+INSERT into assign_to values('CB', 6, 'E', 'B-S01', 'Monday', 4, '11:45:00', '12:45:00');
+INSERT into assign_to values('KP', 6, 'E', 'B-S01', 'Tuesday', 3, '10:45:00', '11:45:00');
+INSERT into assign_to values('KP', 6, 'E', 'B-S01', 'Tuesday', 4, '11:45:00', '12:45:00');
+INSERT into assign_to values('SRS', 6, 'E', 'B-S01', 'Wednesday', 1, '8:15:00', '9:15:00');
+INSERT into assign_to values('SRS', 6, 'E', 'B-S01', 'Wednesday', 2, '9:15:00', '10:15:00');
+INSERT into assign_to values('CB', 6, 'E', 'B-S01', 'Thursday', 3, '10:45:00', '11:45:00');
+INSERT into assign_to values('CB', 6, 'E', 'B-S01', 'Thursday', 4, '11:45:00', '12:45:00');
+INSERT into assign_to values('SRS', 6, 'E', 'B-S01', 'Friday', 5, '13:30:00', '14:30:00');
+INSERT into assign_to values('SRS', 6, 'E', 'B-S01', 'Friday', 6, '14:30:00', '15:30:00');
+INSERT into assign_to values('Dr.SS', 6, 'F', 'B-S02', 'Monday', 3, '10:45:00', '11:45:00');
+INSERT into assign_to values('Dr.SS', 6, 'F', 'B-S02', 'Monday', 4, '11:45:00', '12:45:00');
+INSERT into assign_to values('SRS', 6, 'F', 'B-S02', 'Tuesday', 3, '10:45:00', '11:45:00');
+INSERT into assign_to values('SRS', 6, 'F', 'B-S02', 'Tuesday', 4, '11:45:00', '12:45:00');
+INSERT into assign_to values('VJ', 6, 'F', 'B-S02', 'Wednesday', 1, '8:15:00', '9:15:00');
+INSERT into assign_to values('VJ', 6, 'F', 'B-S02', 'Wednesday', 2, '9:15:00', '10:15:00');
+INSERT into assign_to values('Dr.SS', 6, 'F', 'B-S02', 'Wednesday', 3, '10:45:00', '11:45:00');
+INSERT into assign_to values('Dr.SS', 6, 'F', 'B-S02', 'Wednesday', 4, '11:45:00', '12:45:00');
+INSERT into assign_to values('SRS', 6, 'F', 'B-S02', 'Thursday', 3, '10:45:00', '11:45:00');
+INSERT into assign_to values('SRS', 6, 'F', 'B-S02', 'Thursday', 4, '11:45:00', '12:45:00');
+INSERT into assign_to values('VJ', 6, 'F', 'B-S02', 'Friday', 5, '13:30:00', '14:30:00');
+INSERT into assign_to values('VJ', 6, 'F', 'B-S02', 'Friday', 6, '14:30:00', '15:30:00');
+INSERT into assign_to values('SHR', 6, 'G', 'B-104', 'Monday', 1, '8:15:00', '9:15:00');
+INSERT into assign_to values('SHR', 6, 'G', 'B-104', 'Monday', 2, '9:15:00', '10:15:00');
+INSERT into assign_to values('NMP', 6, 'G', 'B-104', 'Tuesday', 3, '10:45:00', '11:45:00');
+INSERT into assign_to values('NMP', 6, 'G', 'B-104', 'Tuesday', 4, '11:45:00', '12:45:00');
+INSERT into assign_to values('KP', 6, 'G', 'B-104', 'Wednesday', 1, '8:15:00', '9:15:00');
+INSERT into assign_to values('KP', 6, 'G', 'B-104', 'Wednesday', 2, '9:15:00', '10:15:00');
+INSERT into assign_to values('NMP', 6, 'G', 'B-104', 'Thursday', 3, '10:45:00', '11:45:00');
+INSERT into assign_to values('KP', 6, 'G', 'B-104', 'Thursday', 4, '11:45:00', '12:45:00');
+INSERT into assign_to values('SHR', 6, 'G', 'B-104', 'Friday', 3, '10:45:00', '11:45:00');
+INSERT into assign_to values('SHR', 6, 'G', 'B-104', 'Friday', 4, '11:45:00', '12:45:00');
+INSERT into assign_to values('NMP', 6, 'G', 'B-104', 'Friday', 5, '13:30:00', '14:30:00');
+INSERT into assign_to values('KP', 6, 'G', 'B-104', 'Friday', 6, '14:30:00', '15:30:00');
+INSERT into assign_to values('COP', 6, 'H', 'B-211', 'Monday', 1, '8:15:00', '9:15:00');
+INSERT into assign_to values('COP', 6, 'H', 'B-211', 'Monday', 2, '9:15:00', '10:15:00');
+INSERT into assign_to values('RHB', 6, 'H', 'B-211', 'Tuesday', 3, '10:45:00', '11:45:00');
+INSERT into assign_to values('RHB', 6, 'H', 'B-211', 'Tuesday', 4, '11:45:00', '12:45:00');
+INSERT into assign_to values('RHB', 6, 'H', 'B-211', 'Wednesday', 1, '8:15:00', '9:15:00');
+INSERT into assign_to values('RHB', 6, 'H', 'B-211', 'Wednesday', 2, '9:15:00', '10:15:00');
+INSERT into assign_to values('NSK', 6, 'H', 'B-211', 'Wednesday', 3, '10:45:00', '11:45:00');
+INSERT into assign_to values('NSK', 6, 'H', 'B-211', 'Wednesday', 4, '11:45:00', '12:45:00');
+INSERT into assign_to values('COP', 6, 'H', 'B-211', 'Thursday', 3, '10:45:00', '11:45:00');
+INSERT into assign_to values('COP', 6, 'H', 'B-211', 'Thursday', 4, '11:45:00', '12:45:00');
+INSERT into assign_to values('NSK', 6, 'H', 'B-211', 'Friday', 3, '10:45:00', '11:45:00');
+INSERT into assign_to values('NSK', 6, 'H', 'B-211', 'Friday', 4, '11:45:00', '12:45:00');
 
 --Insert values into course table
 
-INSERT INTO course VALUES('UE17MA251', 'LA', 4);
-INSERT INTO course VALUES('UE17CS251', 'DAA', 4);
-INSERT INTO course VALUES('UE17CS252', 'DBMS', 4);
-INSERT INTO course VALUES('UE17CS253', 'MPCA', 4);
-INSERT INTO course VALUES('UE17CS254', 'TOC', 4);
-INSERT INTO course VALUES('UE17CS255', 'DAA Lab', 2);
-INSERT INTO course VALUES('UE17CS256', 'MPCA Lab', 2);
+INSERT into course values('UE17MA251', 'LA', '4');
+INSERT into course values('UE17CS251', 'DAA', '4');
+INSERT into course values('UE17CS252', 'DBMS', '4');
+INSERT into course values('UE17CS253', 'MPCA', '4');
+INSERT into course values('UE17CS254', 'TOC', '4');
+INSERT into course values('UE17CS255', 'DAA Lab',	'1');
+INSERT into course values('UE17CS256', 'MPCA Lab', '1');
+INSERT into course values('UE16CS351', 'CD', '4');
+INSERT into course values('UE16CS352', 'CC', '4');
+INSERT into course values('UE16CS353', 'ML', '4');
+INSERT into course values('UE16CS354', 'CD Lab', '1');
+INSERT into course values('UE16CS355', 'ML Lab', '1');
 
 --Insert values into lecturer
 
@@ -207,7 +308,23 @@ INSERT INTO lecturer VALUES('CBH', 'Chandravva B Hebbi', 'CSE',	'UE17MA251');
 INSERT INTO lecturer VALUES('SK', 'Shruthi Kaivalya', 'CSE', 'UE17CS251');
 INSERT INTO lecturer VALUES('VJ', 'Vinay Joshi', 'CSE',	'UE17CS252');
 INSERT INTO lecturer VALUES('RJ', 'Jyoti R', 'CSE',	'UE17CS254');
-
+INSERT into lecturer values('KSS', 'K Shashikala', 'CSE', 'UE16CS351');
+INSERT into lecturer values('NMP',  'Nirupama M P', 'CSE', 'UE16CS352');
+INSERT into lecturer values('SHR',  'Srikanth H R', 'CSE', 'UE16CS353');
+INSERT into lecturer values('VM',  'Madhura V', 'CSE', 'UE16CS351');
+INSERT into lecturer values('Dr.KVS', 'K V Subramaniam', 'CSE', 'UE16CS352');
+INSERT into lecturer values('SMP', 'Sreekanth M Prabhu', 'CSE', 'UE16CS353');
+INSERT into lecturer values('PK', 'Preet Kanwal', 'CSE', 'UE16CS351');
+INSERT into lecturer values('RHB',  'Ramesh H Bhat', 'CSE', 'UE16CS352');
+INSERT into lecturer values('VRB',  'V R Badriprasad',  'CSE', 'UE16CS353');
+INSERT into lecturer values('CB', 'Channabankapur', 'CSE', 'UE16CS353');
+INSERT into lecturer values('KP', 'Kiran P', 'CSE', 'UE16CS351');
+INSERT into lecturer values('SRS', 'Samatha R Swamy', 'CSE', 'UE16CS352');
+INSERT into lecturer values('VJ', 'Vinay Joshi', 'CSE', 'UE16CS351');
+INSERT into lecturer values('Dr.SS',  'Snehanshu Saha',  'CSE', 'UE16CS353');
+INSERT into lecturer values('COP',  'Prakash C O',  'CSE', 'UE16CS351');
+INSERT into lecturer values('NSK',  'N S Kumar',  'CSE', 'UE16CS353');
+                            
 --Insert values into offers
 
 INSERT INTO offers VALUES('COP','UE17MA251',4,'A','B-102');
@@ -250,7 +367,31 @@ INSERT INTO offers VALUES('SK','UE17CS251',4,'H','B-G06');
 INSERT INTO offers VALUES('VJ','UE17CS252',4,'H','B-G06');
 INSERT INTO offers VALUES('Dr.JR','UE17CS253',4,'H','B-G06');
 INSERT INTO offers VALUES('RJ','UE17CS254',4,'H','B-G06');
-
+INSERT into offers values('KSS', 'UE16CS351', 6, 'A', 'B-207');
+INSERT into offers values('NMP', 'UE16CS352', 6, 'A', 'B-207');
+INSERT into offers values('SHR', 'UE16CS353', 6, 'A', 'B-207');
+INSERT into offers values('VM', 'UE16CS351', 6, 'B', 'B-G08');
+INSERT into offers values('Dr.KVS', 'UE16CS352', 6, 'B', 'B-GSH');
+INSERT into offers values('SMP', 'UE16CS353', 6, 'B', 'B-G08');
+INSERT into offers values('PK', 'UE16CS351', 6, 'C', 'B-212');
+INSERT into offers values('RHB', 'UE16CS352', 6, 'C', 'B-212');
+INSERT into offers values('VRB', 'UE16CS353', 6, 'C', 'B-212');
+INSERT into offers values('VM', 'UE16CS351', 6, 'D', 'B-212');
+INSERT into offers values('Dr.KVS', 'UE16CS352', 6, 'D', 'B-GSH');
+INSERT into offers values('CB', 'UE16CS353', 6, 'D', 'B-212');
+INSERT into offers values('KP', 'UE16CS351', 6, 'E', 'B-S01');
+INSERT into offers values('SRS', 'UE16CS352', 6, 'E', 'B-S01');
+INSERT into offers values('CB', 'UE16CS353', 6, 'E', 'B-S01');
+INSERT into offers values('VJ', 'UE16CS351', 6, 'F', 'B-S02');
+INSERT into offers values('SRS', 'UE16CS352', 6, 'F', 'B-S02');
+INSERT into offers values('Dr.SS', 'UE16CS353', 6, 'F',  'B-S02');
+INSERT into offers values('KP', 'UE16CS351', 6, 'G', 'B-104');
+INSERT into offers values('NMP', 'UE16CS352', 6, 'G', 'B-104');
+INSERT into offers values('SHR', 'UE16CS353', 6, 'G', 'B-104');
+INSERT into offers values('COP', 'UE16CS351', 6, 'H', 'B-211');
+INSERT into offers values('RHB', 'UE16CS352', 6, 'H', 'B-211');
+INSERT into offers values('NSK', 'UE16CS353', 6, 'H', 'B-211');
+                            
 --Insert values into sem_class table
 
 INSERT INTO sem_class VALUES(4,	'A',	'B-102',	2019);
@@ -261,7 +402,15 @@ INSERT INTO sem_class VALUES(4,	'E',	'B-G11',	2019);
 INSERT INTO sem_class VALUES(4,	'F',	'B-G02',	2019);
 INSERT INTO sem_class VALUES(4,	'G',	'B-G07',	2019);
 INSERT INTO sem_class VALUES(4,	'H',	'B-G06',	2019);
-
+INSERT into sem_class values(6,	'A',	'B-207',	2019)
+INSERT into sem_class values(6,	'B',	'B-G08',	2019)
+INSERT into sem_class values(6,	'C',	'B-212',  2019)
+INSERT into sem_class values(6,	'D',	'B-206',	2019)
+INSERT into sem_class values(6,	'E',	'B-S01',	2019)
+INSERT into sem_class values(6,	'F',	'B-S02',	2019)
+INSERT into sem_class values(6,	'G',	'B-104',	2019)
+INSERT into sem_class values(6,	'H',	'B-211',	2019)
+                            
 --Insert values into timetable
 
 INSERT INTO timetable VALUES('Monday','1','08:15:00','09:15:00');
